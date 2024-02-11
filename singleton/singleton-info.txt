@@ -1,0 +1,11 @@
+1) Singleton Design Pattern
+
+2) It has all 6 ways to break and fix the singleton pattern
+
+3) Break Singleton pattern via Cloning & Fixing it
+
+4) Break Singleton pattern via Serialization and Fixing it
+
+5) Break Singeton pattern via Threading and fixing it
+
+6) Break Singleton via Reflection and fixing it
